@@ -39,6 +39,9 @@ This project helped me understand real development issues. Some key challenges w
 - --> Tailwind CSS v4 spacing issues  
   Padding utilities like p-14 did not work because Tailwind v4 has a strict spacing scale and global CSS resets were overriding utilities.
 
+- -->   Arabic language RTL handling
+     Implemented right-to-left (RTL) layout support for Arabic by dynamically adjusting text direction and layout to ensure proper              alignment and readability across the UI.
+
 - --> 404 error on page refresh (Vercel)  
   When refreshing routes other than the home page, Vercel showed a 404 error.  
   This was fixed by adding a rewrite rule to always serve index.html for SPA routing.
