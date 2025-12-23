@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import Home from "./pages/Home";
 import Jobs from "./pages/Jobs";
-import JobsDetails from "./Pages/JobsDetails";
+import JobsDetails from "./pages/JobsDetails";
 import LanguageSwitcher from "./Components/LanguageSwitcher";
 import { useTranslation } from "react-i18next";
 
