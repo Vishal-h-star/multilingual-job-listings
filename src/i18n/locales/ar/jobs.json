@@ -1,0 +1,40 @@
+{
+  "pageTitle": "الوظائف المتاحة",
+  "jobs": [
+    {
+      "id": "frontend",
+      "title": "مطور واجهة أمامية",
+      "location": "العمل عن بعد",
+      "type": "دوام كامل",
+      "description": "بناء واجهات مستخدم حديثة باستخدام React."
+    },
+    {
+      "id": "backend",
+      "title": "مطور خلفية",
+      "location": "الهند",
+      "type": "عقد",
+      "description": "تطوير واجهات برمجة تطبيقات REST آمنة باستخدام Node.js."
+    },
+    {
+      "id": "fullstack",
+      "title": "مطور Full Stack",
+      "location": "الولايات المتحدة",
+      "type": "دوام كامل",
+      "description": "بناء تطبيقات شاملة باستخدام React و Node.js."
+    },
+    {
+      "id": "devops",
+      "title": "مهندس DevOps",
+      "location": "ألمانيا",
+      "type": "دوام كامل",
+      "description": "إدارة البنية التحتية السحابية وخطوط أنابيب CI/CD."
+    },
+    {
+      "id": "mobile",
+      "title": "مطور تطبيقات الجوال",
+      "location": "كندا",
+      "type": "العمل عن بعد",
+      "description": "إنشاء تطبيقات جوال متعددة المنصات باستخدام React Native."
+    }
+  ]
+}
