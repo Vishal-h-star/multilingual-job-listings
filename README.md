@@ -19,17 +19,6 @@ Vercel (Deployment)
 --> Clean UI using Tailwind CSS
 --> Single Page Application routing
 
-src/
- ├── locales/
- │   ├── en/
- │   │   ├── common.json
- │   │   └── jobs.json
- │   ├── hi/
- │   ├── fr/
- │   └── ar/
- ├── i18n.js
- ├── components/
- └── pages/
 
 #Project Setup (Internationalization)
 --> Separate translation files for each language
