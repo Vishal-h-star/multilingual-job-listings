@@ -11,7 +11,7 @@ export default function Home() {
     <div className="min-h-[70vh] flex items-center justify-center bg-gradient-to-br from-blue-50 via-white to-purple-50 px-6">
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-8">
-          <span className="inline-block px-4 py-3 bg-blue-100 text-blue-700 rounded-full text-sm font-semibold mb-6">
+          <span className="inline-block px-4 py-2 bg-blue-100 text-blue-700 rounded-full text-sm font-semibold mb-6">
             🌍  {t("buttons.platformTag")}
           </span>
         </div>
