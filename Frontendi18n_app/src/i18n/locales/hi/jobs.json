@@ -1,0 +1,40 @@
+{
+  "pageTitle": "नौकरी के अवसर",
+  "jobs": [
+    {
+      "id": "frontend",
+      "title": "फ्रंटएंड डेवलपर",
+      "location": "दूरस्थ कार्य",
+      "type": "पूर्णकालिक",
+      "description": "React के साथ आधुनिक इंटरफेस बनाएं।"
+    },
+    {
+      "id": "backend",
+      "title": "बैकएंड डेवलपर",
+      "location": "भारत",
+      "type": "अनुबंध",
+      "description": "Node.js के साथ सुरक्षित REST API विकसित करें।"
+    },
+    {
+      "id": "fullstack",
+      "title": "फुल स्टैक डेवलपर",
+      "location": "अमेरिका",
+      "type": "पूर्णकालिक",
+      "description": "React और Node.js के साथ एंड-टू-एंड एप्लिकेशन बनाएं।"
+    },
+    {
+      "id": "devops",
+      "title": "DevOps इंजीनियर",
+      "location": "जर्मनी",
+      "type": "पूर्णकालिक",
+      "description": "क्लाउड इंफ्रास्ट्रक्चर और CI/CD पाइपलाइन प्रबंधित करें।"
+    },
+    {
+      "id": "mobile",
+      "title": "मोबाइल ऐप डेवलपर",
+      "location": "कनाडा",
+      "type": "दूरस्थ कार्य",
+      "description": "React Native के साथ क्रॉस-प्लेटफॉर्म मोबाइल ऐप बनाएं।"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "pageTitle": "Offres d'emploi",
+
+  "jobs": [
+    {
+      "id": "frontend",
+      "title": "Développeur Frontend",
+      "location": "Télétravail",
+      "type": "Temps plein",
+      "description": "Créer des interfaces modernes avec React."
+    },
+    {
+      "id": "backend",
+      "title": "Développeur Backend",
+      "location": "Inde",
+      "type": "Contrat",
+      "description": "Développer des API REST sécurisées avec Node.js."
+    },
+    {
+      "id": "fullstack",
+      "title": "Développeur Full Stack",
+      "location": "États-Unis",
+      "type": "Temps plein",
+      "description": "Construire des applications de bout en bout avec React et Node.js."
+    },
+    {
+      "id": "devops",
+      "title": "Ingénieur DevOps",
+      "location": "Allemagne",
+      "type": "Temps plein",
+      "description": "Gérer l'infrastructure cloud et les pipelines CI/CD."
+    },
+    {
+      "id": "mobile",
+      "title": "Développeur d'Applications Mobiles",
+      "location": "Canada",
+      "type": "Télétravail",
+      "description": "Créer des applications mobiles multiplateformes avec React Native."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "jobs": "Emplois"
+  },
+  "buttons": {
+    "viewJobs": "Voir les emplois",
+    "applyNow": "Postuler maintenant",
+    "back": "Retour",
+    "platformTag": "Plateforme Internationale"
+  },
+  "home": {
+    "title": "Portail d'Emploi International",
+    "homeText": "Trouvez des opportunités mondiales avec support multilingue"
+  }
+}

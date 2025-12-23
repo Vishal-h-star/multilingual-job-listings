@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Home",
+    "jobs": "Jobs"
+  },
+  "buttons": {
+    "viewJobs": "View Jobs",
+    "applyNow": "Apply Now",
+    "back": "Back",
+    "platformTag": "International Platform"
+  },
+  "home": {
+    "title": "International Job Portal",
+    "homeText": "Find global opportunities with multilingual support"
+  }
+}

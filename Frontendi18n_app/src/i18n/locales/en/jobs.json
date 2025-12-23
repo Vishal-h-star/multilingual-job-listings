@@ -1,0 +1,42 @@
+{
+  "pageTitle": "Job Openings",
+
+  "jobs": [
+    {
+      "id": "frontend",
+      "title": "Frontend Developer",
+      "location": "Remote",
+      "type": "Full Time",
+      "description": "Build modern user interfaces using React."
+    },
+
+    {
+      "id": "backend",
+      "title": "Backend Developer",
+      "location": "India",
+      "type": "Contract",
+      "description": "Develop secure REST APIs using Node.js."
+    },
+    {
+      "id": "fullstack",
+      "title": "Full Stack Developer",
+      "location": "USA",
+      "type": "Full Time",
+      "description": "Build end-to-end applications with React and Node.js."
+    },
+    {
+      "id": "devops",
+      "title": "DevOps Engineer",
+      "location": "Germany",
+      "type": "Full Time",
+      "description": "Manage cloud infrastructure and CI/CD pipelines."
+    },
+    {
+      "id": "mobile",
+      "title": "Mobile App Developer",
+      "location": "Canada",
+      "type": "Remote",
+      "description": "Create cross-platform mobile apps with React Native."
+    }
+  ]
+}
